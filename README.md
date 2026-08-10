@@ -1,0 +1,51 @@
+﻿# 👋 Hey, I'm Erdem Efe Şahin
+
+> **Design-trained developer — building software with a creative edge.**
+> CS grad · 8+ years freelancing in video & graphic design · now coding full-stack.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science graduate transitioning into software development
+- 🎬 **8+ years freelance experience** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → now bringing that discipline and eye for detail to code
+- 💻 Completed a web development internship; building full-stack apps with **React, Node.js, PostgreSQL**
+- 🧠 Thesis on **text steganography for IP protection** (NLP + linguistics)
+- 🤖 Heavy user of AI-assisted workflows (Copilot, LLM APIs, automation) — not as a crutch, as a multiplier
+- 📍 Based in **Poland** · open to relocation — long-term goal: **Barcelona**
+- 🔁 My superpower: bridging **creative precision** with **engineering logic**
+
+---
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+### 🔭 Currently Working On
+
+**SmartTasks** — a full-stack task manager with AI/LLM integration (React, Node.js, PostgreSQL, OpenAI API).  
+Smart scheduling, natural language input, automated prioritisation.
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erdemefesahin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemefesahin&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdem-efe-%C5%9Fahin-5125382a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erdemesahin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](<!-- https://your-portfolio.com -->)
