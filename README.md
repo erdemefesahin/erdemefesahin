@@ -12,7 +12,7 @@
 - 💻 Built & shipped **4 independent projects**: Dockerized WordPress + MySQL, Android WebView app (Google Play), PokeAPI Angular app, Oracle PL/SQL data-integrity triggers
 - 🧠 Thesis on **text steganography for IP protection** (NLP + linguistics)
 - 🇬🇧 English C1 · 🇹🇷 Turkish native · 🇪🇸 Spanish intermediate · 🇵🇱 Polish basic
-- 📍 Based in **Lublin, Poland** · remote-friendly · open to relocation — long-term goal: **Barcelona**
+- 📍 Based in **Lublin, Poland** · remote-friendly · open to relocation 
 
 ---
 
