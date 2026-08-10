@@ -36,6 +36,9 @@
 **SmartTasks** — a full-stack task manager with AI/LLM integration (React, Node.js, PostgreSQL, OpenAI API).  
 Smart scheduling, natural language input, automated prioritisation.
 
+**🧪 Thesis Project — [Stego App](https://github.com/erdemefesahin/stego-app)**  
+A desktop application for text steganography-based IP protection (Python, NLP).
+
 ---
 
 ### 📊 GitHub Stats
