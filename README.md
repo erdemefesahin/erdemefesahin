@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS graduate** — The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · Erasmus+ at Varna University of Management, Bulgaria · thesis on text steganography for IP protection
+- 🎓 **CS graduate** — The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · thesis on text steganography for IP protection · Erasmus+ at Varna University of Management, Bulgaria
 - 🎬 **8+ years freelance experience** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → bringing that discipline, ownership, and attention to detail to software
 - 💻 Built & shipped **4 independent projects**: Dockerized WordPress + MySQL, Android WebView app (Google Play), PokeAPI Angular app, Oracle PL/SQL data-integrity triggers
 - 🧠 Thesis on **text steganography for IP protection** (NLP + linguistics)
