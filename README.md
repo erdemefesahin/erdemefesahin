@@ -7,13 +7,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science graduate transitioning into software development
+- 🎓 **CS graduate** (GPA 4.26/5.0) · Erasmus+ in Bulgaria · thesis on text steganography for IP protection
 - 🎬 **8+ years freelance experience** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → now bringing that discipline and eye for detail to code
-- 💻 Completed a web development internship; building full-stack apps with **React, Node.js, PostgreSQL**
+- 💻 Built & shipped **4 independent projects**: Dockerized WordPress + MySQL, Android WebView app (Google Play), PokeAPI Angular app, Oracle PL/SQL data-integrity triggers
 - 🧠 Thesis on **text steganography for IP protection** (NLP + linguistics)
-- 🤖 Heavy user of AI-assisted workflows (Copilot, LLM APIs, automation) — not as a crutch, as a multiplier
-- 📍 Based in **Poland** · open to relocation — long-term goal: **US**
-- 🔁 My superpower: bridging **creative precision** with **engineering logic**
+- 🇬🇧 English C1 · 🇹🇷 Turkish native · 🇪🇸 Spanish intermediate · 🇵🇱 Polish basic
+- 📍 Based in **Lublin, Poland** · open to relocation — long-term goal: **Barcelona**
 
 ---
 
@@ -22,11 +21,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
@@ -39,7 +40,7 @@ Smart scheduling, natural language input, automated prioritisation.
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erdemefesahin&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=erdemefesahin&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemefesahin&layout=compact&theme=tokyonight)
 
 ---
