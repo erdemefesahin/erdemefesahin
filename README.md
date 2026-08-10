@@ -12,7 +12,7 @@
 - 💻 Completed a web development internship; building full-stack apps with **React, Node.js, PostgreSQL**
 - 🧠 Thesis on **text steganography for IP protection** (NLP + linguistics)
 - 🤖 Heavy user of AI-assisted workflows (Copilot, LLM APIs, automation) — not as a crutch, as a multiplier
-- 📍 Based in **Poland** · open to relocation — long-term goal: **Barcelona**
+- 📍 Based in **Poland** · open to relocation — long-term goal: **US**
 - 🔁 My superpower: bridging **creative precision** with **engineering logic**
 
 ---
