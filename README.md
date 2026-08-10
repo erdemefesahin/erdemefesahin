@@ -41,7 +41,6 @@ Smart scheduling, natural language input, automated prioritisation.
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erdemefesahin&theme=tokyonight)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=erdemefesahin&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=erdemefesahin&theme=tokyonight&hide_border=true)
 
 ---
