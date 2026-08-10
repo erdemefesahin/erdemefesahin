@@ -7,12 +7,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS graduate** (GPA 4.26/5.0) · Erasmus+ in Bulgaria · thesis on text steganography for IP protection
-- 🎬 **8+ years freelance experience** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → now bringing that discipline and eye for detail to code
+- 🎓 **CS graduate** — The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · Erasmus+ at Varna University of Management, Bulgaria · thesis on text steganography for IP protection
+- 🎬 **8+ years freelance experience** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → bringing that discipline, ownership, and attention to detail to software
 - 💻 Built & shipped **4 independent projects**: Dockerized WordPress + MySQL, Android WebView app (Google Play), PokeAPI Angular app, Oracle PL/SQL data-integrity triggers
 - 🧠 Thesis on **text steganography for IP protection** (NLP + linguistics)
 - 🇬🇧 English C1 · 🇹🇷 Turkish native · 🇪🇸 Spanish intermediate · 🇵🇱 Polish basic
-- 📍 Based in **Lublin, Poland** · open to relocation — long-term goal: **Barcelona**
+- 📍 Based in **Lublin, Poland** · remote-friendly · open to relocation — long-term goal: **Barcelona**
 
 ---
 
@@ -40,8 +40,9 @@ Smart scheduling, natural language input, automated prioritisation.
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erdemefesahin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemefesahin&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erdemefesahin&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=erdemefesahin&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=erdemefesahin&theme=tokyonight&hide_border=true)
 
 ---
 
