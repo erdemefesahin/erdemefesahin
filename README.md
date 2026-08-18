@@ -48,7 +48,6 @@ A desktop application for text steganography-based IP protection (Python, NLP).
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erdemefesahin&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=erdemefesahin&theme=tokyonight&hide_border=true)
 
 ---
 
