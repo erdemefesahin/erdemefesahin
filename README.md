@@ -7,12 +7,16 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS graduate** — The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · thesis on text steganography for IP protection · Erasmus+ at Varna University of Management, Bulgaria
-- 🎬 **8+ years freelance experience** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → bringing that discipline, ownership, and attention to detail to software
-- 💻 Built & shipped **4 independent projects**: Dockerized WordPress + MySQL, Android WebView app (Google Play), PokeAPI Angular app, Oracle PL/SQL data-integrity triggers
-- 🧠 Thesis on **text steganography for IP protection** (NLP + linguistics)
-- 🇬🇧 English C1 · 🇹🇷 Turkish native · 🇪🇸 Spanish intermediate · 🇵🇱 Polish basic
-- 📍 Based in **Lublin, Poland** · remote-friendly · open to relocation 
+- 🎓 **CS Graduate** — The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · Erasmus+ exchange at Varna University of Management, Bulgaria
+- 🧵 **Thesis:** Text steganography for IP protection (NLP + linguistics) — hiding ownership signatures inside natural language
+- 🎬 **8+ years freelance** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → now channeling that discipline into shipping software
+- 🚀 **Shipped 4 independent projects** end-to-end:
+- 🐳 Dockerized WordPress + MySQL stack
+- 📱 Android WebView app (live on Google Play)
+- ⚡ Angular app consuming the PokeAPI
+- 🗃️ Oracle PL/SQL data-integrity triggers
+- 🌍 **Languages:** 🇬🇧 English (C1) · 🇹🇷 Turkish (native) · 🇪🇸 Spanish (intermediate) · 🇵🇱 Polish (basic)
+- 🌐 **Remote-first** · open to relocation · available worldwide
 
 ---
 
