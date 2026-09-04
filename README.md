@@ -1,47 +1,41 @@
-﻿# 👋 Hey, I'm Erdem Efe Şahin
+# 👋 Hey, I'm Erdem Efe Şahin
 
-> **Design-trained developer — building software with a creative edge.**
-> CS grad · 8+ years freelancing in video & graphic design · now coding full-stack.
+> **From building digital ecosystems to actively defending them.**
+> Cyber Security MSc Student · AppSec & Cryptography · BSc in Computer Science
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS Graduate** — The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · Erasmus+ exchange at Varna University of Management, Bulgaria
-- 🧵 **Thesis:** Text steganography for IP protection (NLP + linguistics) — hiding ownership signatures inside natural language
-- 🎬 **8+ years freelance** in video editing & graphic design — client comms, project management, tight deadlines, remote collaboration → now channeling that discipline into shipping software
-- 🚀 **Shipped 4 independent projects** end-to-end:
-- 🐳 Dockerized WordPress + MySQL stack
-- 📱 Android WebView app (live on Google Play)
-- ⚡ Angular app consuming the PokeAPI
-- 🗃️ Oracle PL/SQL data-integrity triggers
+- 🛡️ **Currently:** Pursuing an **MSc in Cyber Security** at UMCS, focusing on Application Security (AppSec), threat modeling, and network defense.
+- 🎓 **Background:** BSc in Computer Science from The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · Erasmus+ at Varna University of Management.
+- 🧪 **Research:** My thesis focused on **Text Steganography for IP protection**—hiding ownership signatures inside natural language, bridging data obfuscation and cryptography.
+- 🏗️ **The Builder's Mindset:** With a background spanning full-stack development and 8+ years in digital media design, I understand how complex architectures are built and how users interact with them. This dual perspective allows me to spot vulnerabilities at both the system and human-centric levels.
 - 🌍 **Languages:** 🇬🇧 English (C1) · 🇹🇷 Turkish (native) · 🇪🇸 Spanish (intermediate) · 🇵🇱 Polish (basic)
-- 🌐 **Remote-first** · open to relocation · available worldwide
+- 🌐 **Remote-first** · Open to global opportunities in InfoSec
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Architecture
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Security, Data & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Full-Stack & Database**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ### 🔭 Currently Working On
 
-**SmartTasks** — a full-stack task manager with AI/LLM integration (React, Node.js, PostgreSQL, OpenAI API).  
-Smart scheduling, natural language input, automated prioritisation.
-
-**🧪 Thesis Project — [Stego App](https://github.com/erdemefesahin/stego-app)**  
-A desktop application for text steganography-based IP protection (Python, NLP).
+- 🔐 **MSc Cyber Security Studies:** Deep diving into secure software development lifecycles, network architectures, and proactive defense strategies.
+- 🧪 **[Stego App](https://github.com/erdemefesahin/stego-app):** A desktop application for text steganography-based IP protection (Python, NLP).
+- 🚀 **Past Builds:** Architected full-stack platforms and mobile applications (e.g., deal-sharing platforms, art academy management app) which solidified my foundation for analyzing Application Security risks.
 
 ---
 
