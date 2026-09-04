@@ -1,41 +1,42 @@
 # 👋 Hey, I'm Erdem Efe Şahin
 
-> **From building digital ecosystems to actively defending them.**
-> Cyber Security MSc Student · AppSec & Cryptography · BSc in Computer Science
+> **Cyber Security & AppSec | Building and Defending Digital Ecosystems**
+> Bridging the gap between software architecture, cryptography, and network defense.
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Profile & Focus
 
-- 🛡️ **Currently:** Pursuing an **MSc in Cyber Security** at UMCS, focusing on Application Security (AppSec), threat modeling, and network defense.
-- 🎓 **Background:** BSc in Computer Science from The John Paul II Catholic University of Lublin (GPA 4.26/5.0) · Erasmus+ at Varna University of Management.
-- 🧪 **Research:** My thesis focused on **Text Steganography for IP protection**—hiding ownership signatures inside natural language, bridging data obfuscation and cryptography.
-- 🏗️ **The Builder's Mindset:** With a background spanning full-stack development and 8+ years in digital media design, I understand how complex architectures are built and how users interact with them. This dual perspective allows me to spot vulnerabilities at both the system and human-centric levels.
+- 🛡️ **Domain Expertise:** Application Security (AppSec), Threat Modeling, Cryptography, and Secure Software Development Lifecycles.
+- 🎓 **Academic Foundation:** MSc in Cyber Security (UMCS) · BSc in Computer Science (KUL, GPA 4.26/5.0).
+- 🧪 **Research & Cryptography:** Authored a thesis on **Text Steganography for IP Protection**—developing NLP-based data obfuscation techniques to hide ownership signatures inside natural language.
+- 🏗️ **The Builder's Mindset:** Extensive background in full-stack architecture and digital media. Understanding how complex systems are engineered from the ground up enables me to identify architectural vulnerabilities and human-centric security risks effectively.
 - 🌍 **Languages:** 🇬🇧 English (C1) · 🇹🇷 Turkish (native) · 🇪🇸 Spanish (intermediate) · 🇵🇱 Polish (basic)
-- 🌐 **Remote-first** · Open to global opportunities in InfoSec
+- 🌐 **Remote-first** · Open to global opportunities in InfoSec.
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 🛡️ Core Competencies
 
-**Security, Data & Core**
+- **Security:** AppSec, Network Defense, Cryptography, Data Obfuscation, Vulnerability Analysis
+- **Architecture:** Secure System Design, API Security, Threat Modeling
+- **Engineering:** Full-Stack Development, Database Integrity, Containerization (Docker)
+
+---
+
+### 🛠️ Tech Stack
+
+**Security & Core Infrastructure**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Full-Stack & Database**
+**Application Architecture**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-### 🔭 Currently Working On
-
-- 🔐 **MSc Cyber Security Studies:** Deep diving into secure software development lifecycles, network architectures, and proactive defense strategies.
-- 🧪 **[Stego App](https://github.com/erdemefesahin/stego-app):** A desktop application for text steganography-based IP protection (Python, NLP).
-- 🚀 **Past Builds:** Architected full-stack platforms and mobile applications (e.g., deal-sharing platforms, art academy management app) which solidified my foundation for analyzing Application Security risks.
 
 ---
 
