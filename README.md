@@ -1,52 +1,65 @@
-# 👋 Hey, I'm Erdem Efe Şahin
+# Hi, I'm Erdem 👋
 
-> **Cyber Security & AppSec | Building and Defending Digital Ecosystems**
-> Bridging the gap between software architecture, cryptography, and network defense.
-
----
-
-### 👨‍💻 Profile & Focus
-
-- 🛡️ **Domain Expertise:** Application Security (AppSec), Threat Modeling, Cryptography, and Secure Software Development Lifecycles.
-- 🎓 **Academic Foundation:** MSc in Cyber Security (UMCS) · BSc in Computer Science (KUL, GPA 4.26/5.0).
-- 🧪 **Research & Cryptography:** Authored a thesis on **Text Steganography for IP Protection**—developing NLP-based data obfuscation techniques to hide ownership signatures inside natural language.
-- 🏗️ **The Builder's Mindset:** Extensive background in full-stack architecture and digital media. Understanding how complex systems are engineered from the ground up enables me to identify architectural vulnerabilities and human-centric security risks effectively.
-- 🌍 **Languages:** 🇬🇧 English (C1) · 🇹🇷 Turkish (native) · 🇪🇸 Spanish (intermediate) · 🇵🇱 Polish (basic)
-- 🌐 **Remote-first** · Open to global opportunities in InfoSec.
+**Computer Science graduate building toward a career in cybersecurity (SOC Analyst track).**
 
 ---
 
-### 🛡️ Core Competencies
+## About Me
 
-- **Security:** AppSec, Network Defense, Cryptography, Data Obfuscation, Vulnerability Analysis
-- **Architecture:** Secure System Design, API Security, Threat Modeling
-- **Engineering:** Full-Stack Development, Database Integrity, Containerization (Docker)
+Computer Science graduate from John Paul II Catholic University of Lublin, Poland, with a strong foundation in full-stack development and a growing focus on cybersecurity. My bachelor thesis explored **text steganography for IP protection**, which sparked a deep interest in data security and information protection.
+
+With 8+ years of freelance project delivery experience, I bring discipline, problem-solving, and a systems-thinking mindset to everything I build and defend. My background spans HTML, CSS, JavaScript, React, Next.js, and Python—skills I'm channeling toward security-focused work as I build foundational cybersecurity knowledge in network security, information security, and security awareness.
+
+I'm committed to the SOC Analyst path and actively pursuing the **CompTIA Security+** certification while gaining hands-on experience through platforms like **TryHackMe**.
 
 ---
 
-### 🛠️ Tech Stack
+## Currently Learning
 
-**Security & Core Infrastructure**
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-4B8BBE?style=for-the-badge&logoColor=white)
+![SIEM Fundamentals](https://img.shields.io/badge/SIEM%20Fundamentals-1F77B4?style=for-the-badge&logoColor=white)
+
+---
+
+## Skills
+
+**Security Foundations**  
+![Network Security](https://img.shields.io/badge/Network%20Security-4B8BBE?style=for-the-badge&logoColor=white)
+![Information Security](https://img.shields.io/badge/Info%20Security-087E8B?style=for-the-badge&logoColor=white)
+![Security Awareness](https://img.shields.io/badge/Security%20Awareness-FF6B6B?style=for-the-badge&logoColor=white)
+![Data Privacy](https://img.shields.io/badge/Data%20Privacy-264653?style=for-the-badge&logoColor=white)
+
+**Programming**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Application Architecture**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## Featured Project
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erdemefesahin&theme=tokyonight)
+**SmartTasks** — Full-stack task management application with React, Next.js, and modern web technologies. [View Repository](https://github.com/erdemefesahin/smarttasks)
 
 ---
 
-### 🤝 Connect with Me
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdem-efe-%C5%9Fahin-5125382a7/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=erdemefesahin&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=erdemefesahin&theme=tokyonight)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erdem-efe-şahin-5125382a7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erdemesahin@gmail.com)
