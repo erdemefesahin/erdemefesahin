@@ -62,4 +62,5 @@ I'm committed to the SOC Analyst path and actively pursuing the **CompTIA Securi
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erdem-efe-şahin-5125382a7)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/erdemefe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erdemesahin@gmail.com)
