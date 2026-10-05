@@ -1,6 +1,6 @@
 # Hi, I'm Erdem 👋
 
-**Computer Science graduate building toward a career in cybersecurity. **
+**Computer Science graduate building toward a career in cybersecurity.**
 
 ---
 
