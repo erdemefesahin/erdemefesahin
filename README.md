@@ -6,11 +6,11 @@
 
 ## About Me
 
-Computer Science graduate (B.A., John Paul II Catholic University of Lublin) with foundational coursework in network security, information security, and cybersecurity fundamentals, alongside practical full-stack development experience. Currently pursuing **M.S. IT Cyber Security** at Maria Curie-Skłodowska University (UMCS), Lublin.
+Computer Science graduate (B.A., John Paul II Catholic University of Lublin) with foundational coursework in network security, information security, and cybersecurity fundamentals, alongside practical experience in web development and digital communication.
 
-My bachelor thesis explored **text steganography for IP protection**, which sparked a deep interest in data security and information protection. With 8+ years of freelance project delivery experience in video editing and graphic design, I bring strong analytical thinking, clear technical communication, and disciplined project execution to everything I build and defend.
+My bachelor thesis explored **text steganography for IP protection**, which sparked a deep interest in data security and information protection. With 8+ years of freelance project delivery experience across design, digital content, and web development, I bring a multidisciplinary perspective to technical problem-solving.
 
-Building toward an entry-level **Security Operations (SOC) Analyst role**, actively pursuing the **CompTIA Security+** certification and gaining hands-on experience through TryHackMe. My development background spans HTML, CSS, JavaScript, React, Next.js, and Python—skills I'm channeling toward security-focused work.
+Building toward an entry-level **Security Operations (SOC) Analyst role**, actively pursuing the **CompTIA Security+** certification and gaining hands-on experience through TryHackMe. My development work complements my cyber interests by strengthening my understanding of secure systems design, web technologies, and operational resilience.
 
 ---
 
@@ -118,6 +118,7 @@ Responsive Web Design, Technical Communication, Graphic Design & Video Editing
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/Website-erdemefesahin.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://erdemefesahin.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erdem-efe-şahin-5125382a7)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/erdemefe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erdemesahin@gmail.com)
